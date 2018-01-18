@@ -1,0 +1,9 @@
+<?php
+
+header('Content-Type: image/png');
+
+readfile('img.png');
+
+?>
+
+<img width="200" >
